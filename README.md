@@ -155,7 +155,7 @@ Synthetic/demo datasets may be included strictly for demonstration purposes.
 
 ---
 
-🧰 Technologies Used
+## 🧰 Technologies Used
 - Python
 - Pandas
 - NumPy
