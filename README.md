@@ -4,8 +4,7 @@ A machine learning framework for multidimensional building energy signature mode
 
 ---
 
-## Overview
-
+## 🌍 Overview
 Traditional energy signature models rely primarily on outdoor air temperature to estimate building energy consumption. While simple and interpretable, these approaches often fail to capture the complex environmental and operational factors influencing real-world building behavior.
 
 This project explores a multidimensional energy signature approach using machine learning techniques and engineered environmental features to improve forecasting accuracy and building performance analysis.
@@ -35,8 +34,7 @@ Traditional temperature-only models are often insufficient for capturing the non
 
 ---
 
-## Methodology
-
+## 🧪 Methodology
 The framework follows a complete end-to-end machine learning workflow:
 
 1. Data preprocessing
@@ -50,7 +48,7 @@ The framework follows a complete end-to-end machine learning workflow:
 
 ---
 
-## Feature Engineering
+## 🛠️ Feature engineering  
 
 The project includes several domain-inspired feature engineering techniques commonly used in building energy analysis:
 
@@ -157,8 +155,7 @@ Synthetic/demo datasets may be included strictly for demonstration purposes.
 
 ---
 
-## Technologies Used
-
+🧰 Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -217,6 +214,5 @@ No confidential customer data, proprietary datasets, internal reports, or protec
 
 ---
 
-## License
-
+## 📜 License
 MIT License
