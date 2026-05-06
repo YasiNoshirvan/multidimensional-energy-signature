@@ -21,8 +21,7 @@ The framework focuses on:
 
 ---
 
-## Motivation
-
+## 🎯 Motivation
 Buildings are among the largest contributors to global energy consumption. Accurate forecasting and analysis of building energy demand are essential for:
 
 - Energy efficiency optimization
@@ -64,8 +63,7 @@ The project includes several domain-inspired feature engineering techniques comm
 
 ---
 
-## Machine Learning Models
-
+## 🤖 Machine Learning Models
 The framework supports multiple regression approaches:
 
 ### Linear Models
@@ -80,7 +78,7 @@ The framework supports multiple regression approaches:
 
 ---
 
-## Pipeline Architecture
+## 🏗️ Pipeline Architecture
 
 ```text
 Raw Data
@@ -100,7 +98,7 @@ Evaluation & Forecasting
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 multidimensional-energy-signature/
@@ -132,13 +130,30 @@ multidimensional-energy-signature/
 
 ---
 
-## Reproducibility
+## 🔒 Confidentiality & Research Restrictions
 
-Due to confidentiality agreements and data protection constraints, the original datasets, experimental outputs, and industrial results used during the research cannot be publicly released.
+This project was developed within an industrial research environment under confidentiality and data protection agreements.
 
-This repository provides a generalized and reproducible implementation of the methodology and machine learning pipeline without exposing proprietary or confidential information.
+Due to company policies, contractual obligations, and customer data protection requirements, the following materials cannot be publicly released:
 
-Synthetic/demo datasets may be included for demonstration purposes only.
+- Original datasets
+- Internal experimental results
+- Research reports and thesis documents
+- Proprietary code components
+- Customer-related information
+- Operational outputs and analytics
+
+Only generalized implementations, architectural concepts, and reproducible workflow structures are shared in this repository.
+
+All publicly available materials have been carefully sanitized to ensure compliance with industrial confidentiality constraints.
+
+---
+
+## 🔁 Reproducibility
+
+This repository provides a generalized and reproducible implementation of the machine learning methodology and pipeline architecture without exposing proprietary or confidential information.
+
+Synthetic/demo datasets may be included strictly for demonstration purposes.
 
 ---
 
@@ -156,22 +171,28 @@ Synthetic/demo datasets may be included for demonstration purposes only.
 
 ---
 
-## Potential Applications
+## 🚀 Potential Applications
 
 - Building energy forecasting
-- Energy benchmarking
 - Smart building analytics
+- Energy benchmarking
 - HVAC optimization
 - Operational monitoring
 - Demand-response support
 - Energy anomaly detection
+- Energy efficiency assessment
 
 ---
 
-## Research Context
+## 🎓 Research Context
 
-This project was developed as part of a Master's research work in Data Science and Engineering, conducted in collaboration with an industrial research environment focused on smart building systems and energy analytics.
+This project was developed as part of a Master's research work in **Data Science and Engineering**, conducted in collaboration with an industrial research environment focused on:
 
+- Smart building systems
+- Energy analytics
+- Applied machine learning
+- Predictive modeling
+- Data-driven operational analysis
 ---
 
 ## Future Improvements
@@ -188,11 +209,11 @@ Potential future extensions include:
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
-This repository contains a generalized implementation intended for educational and research purposes only.
+This repository contains a generalized implementation intended exclusively for educational and research purposes.
 
-No confidential customer data, proprietary datasets, or protected industrial results are included.
+No confidential customer data, proprietary datasets, internal reports, or protected industrial results are included.
 
 ---
 
